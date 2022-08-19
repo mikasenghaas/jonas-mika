@@ -28,8 +28,3 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonas-mika&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats)
-<<<<<<< HEAD
-=======
-
--------
->>>>>>> 786162a (updated README)
