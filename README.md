@@ -29,6 +29,8 @@
 <p>
   <img 
     alt="Github Stats"
-    src="https://github-readme-streak-stats.herokuapp.com?user=jonas-mika&theme=solarized-dark&hide_border=true"
+    align="center"
+    width="100%"
+    src="https://github-readme-streak-stats.herokuapp.com?user=jonas-mika&theme=default&hide_border=true"
   />
 </p>
