@@ -26,5 +26,9 @@
     />
   </a> 
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonas-mika&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats)
+<p>
+  <img 
+    alt="Github Stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=jonas-mika&theme=solarized-dark&hide_border=true"
+  />
+</p>
