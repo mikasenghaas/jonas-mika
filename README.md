@@ -26,11 +26,12 @@
     />
   </a> 
 </p>
-<p>
+<p
+    style="display:flex;justify-content:center;align-items:center;"
+>
   <img 
     alt="Github Stats"
-    align="center"
-    width="100%"
+    width="70%"
     src="https://github-readme-streak-stats.herokuapp.com?user=jonas-mika&theme=default&hide_border=true"
   />
 </p>
