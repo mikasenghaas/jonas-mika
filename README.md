@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/mika-senghaas-dark.jpeg" height='150px' style='border-radius: 100%' />
+<img src="/mika-senghaas-dark.png" height='150px' style='border-radius: 100%' />
 </div>
 <h2 align="center">👋 Hej, I'm <u>Mika</u>.</h2>
 <div align="center">
