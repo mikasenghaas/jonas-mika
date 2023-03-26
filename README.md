@@ -1,35 +1,24 @@
-<div align="center">
-<img src="/mika-senghaas-dark.png" height='150px' style='border-radius: 100%' />
-</div>
-<h2 align="center">👋 Hej, I'm <u>Mika</u>.</h2>
-<div align="center">
-  <a 
-    href="https://www.twitter.com/mikasenghaas/" 
-    target="_blank">
-      <img alt="twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a> 
-  <a 
-    href="https://www.instagram.com/mikasenghaas/" 
-    target="_blank">
-    <img 
-      alt="instagram" 
-      src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=red" 
-    />
-  </a> 
-  <a 
-    href="https://www.linkedin.com/in/mikasenghaas/" 
-    target="_blank">
-    <img 
-      alt="linked-in" 
-      src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
-    />
-  </a> 
-  <a 
-    href="http://jonas-mika.de/" 
-    target="_blank">
-    <img 
-      alt="portfolio" 
-      src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Mail.ru&logoColor=white" 
-    />
-  </a> 
-</div>
+### Hi 👋 I'm Mika.
+
+I am a student and teaching assistant at the [IT University of
+Copenhagen](https://en.itu.dk). 
+
+My primary interest within the field of computer science lies in the realm of
+artificial intelligence. I strive to understand cutting-edge research in
+mathematical and technical detail by reading papers, implementing theoretical
+concepts in code, building exciting products, and educating others.
+
+Much of the above is connected to [AITU](https://aitu.group), a student
+organisation that I have cofounded. We maintain a
+[blog](https://aitu.group/blog), in which we summarise the main ideas of papers
+that we have read, as well as reflect on events we hosted and competitions we
+participated in.
+
+### 🤗 Connect with me
+
+I am always interested in exciting projects, research, or startup ideas. Reach
+out to me for collaboration of any kind. I am looking forward to hearing about your
+vision. Catch me all day, every day via [mail](mailto:mail@mikasenghaas.de) or
+on [Linkedin](https://linkedin.com/in/mikasenghaas).
+
+For more see my [Portfolio](https://mikasenghaas.de).
